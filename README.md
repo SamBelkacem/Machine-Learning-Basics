@@ -1,6 +1,6 @@
 # Machine-Learning-basics
 
-![Machine-Learning-basics](https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg)
+<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg" width="500">
 
 Welcome to this GitHub repository on Machine Learning Basics in Python! 
 
