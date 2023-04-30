@@ -16,9 +16,9 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
 # Prerequisites
 
-  - Mathematics
-  - Python programming 
-  - Data Structures
+  - Mathematics ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/01-%20Mathematics))
+  - Python programming ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python))
+  - Data Structures ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures))
 
 # Roadmap
 
