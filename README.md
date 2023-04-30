@@ -17,15 +17,10 @@ Tutorial on Machine Learning basics.
 
 6- Machine learning datasets
 
-•	https://archive.ics.uci.edu/ml/index.php
-
-•	https://www.kaggle.com/datasets
-
-•	https://github.com/awesomedata/awesome-public-datasets
-
-•	https://datasetsearch.research.google.com/
-
-•	https://www.openml.org/
-
-•	https://paperswithcode.com/datasets
+  - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
+  - Kaggle datasets: https://www.kaggle.com/datasets
+  - Awesome Public Datasets: https://github.com/awesomedata/awesome-public-datasets
+  - Google Dataset Search: https://datasetsearch.research.google.com/
+  - OpenML Datasets: https://www.openml.org/
+  - Papers With Code: https://paperswithcode.com/datasets
 
