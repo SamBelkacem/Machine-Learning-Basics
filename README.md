@@ -4,6 +4,8 @@
 <img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg" width="650">
 </p>
 
+# Introduction
+
 Welcome to this GitHub repository on Machine Learning Basics in ``Python``.
 
 This repository includes three essential components:
