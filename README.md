@@ -6,9 +6,18 @@ Tutorial on Machine Learning basics.
 
 2- Data preprocessing and analysis: Numpy and Pandas (GitHub repository)
 
+  - Cheatsheet: 
+  - GitHub repository: 
+
 3- Data visualization: Matplotlib and Seaborn (GitHub repository)
 
+  - Cheatsheet: 
+  - GitHub repository: 
+
 4- Machine learning: scikit-learn (GitHub repository)
+
+  - Cheatsheet: 
+  - GitHub repository: 
 
 5- Machine learning competitions:
 
