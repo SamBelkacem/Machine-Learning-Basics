@@ -6,7 +6,7 @@
 
 # Introduction
 
-Welcome to this tutorial on Machine Learning Basics in ``Python``.
+Welcome to this tutorial on Machine Learning Basics using ``Python``.
 
 This GitHub repository includes three essential components:
 
