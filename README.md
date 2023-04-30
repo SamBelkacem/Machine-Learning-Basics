@@ -6,22 +6,22 @@ Tutorial on Machine Learning basics.
 
 2- Read input data
 
-  - GitHub repository: ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/How%20to%20read%20various%20sources%20in%20a%20DataFrame.ipynb))
+  - GitHub repository ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/How%20to%20read%20various%20sources%20in%20a%20DataFrame.ipynb))
 
 3- Data preprocessing and analysis: Numpy and Pandas
 
   - Cheatsheet: 
-  - GitHub repository: ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb))
+  - GitHub repository ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb))
 
 4- Data visualization: Matplotlib and Seaborn
 
   - Cheatsheet: 
-  - GitHub repository: ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Matplotlib_Seaborn_basics.ipynb))
+  - GitHub repository ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Matplotlib_Seaborn_basics.ipynb))
 
 5- Machine learning: scikit-learn
 
   - Cheatsheet: 
-  - GitHub repository: ([Link](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
+  - GitHub repository ([Link](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
 
 6- Machine learning competitions:
 
