@@ -1,5 +1,7 @@
 # Machine-Learning-basics
 
+![Machine-Learning-basics](https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg)
+
 Welcome to this GitHub repository on Machine Learning Basics in Python! 
 
 First, we cover data preprocessing and analysis using NumPy and pandas, which involves cleaning and transforming raw data into a format suitable for analysis.
