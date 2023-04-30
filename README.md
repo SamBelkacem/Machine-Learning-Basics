@@ -9,8 +9,8 @@ Welcome to this GitHub repository on Machine Learning Basics in Python!
 This repository includes three essential components:
 
   - **Data preprocessing and analysis:** clean and transform raw data into a format suitable for analysis using ``NumPy`` and ``Pandas``.
-  - **Data visualization:** understand and explore data visually using Matplotlib and Seaborn.
-  - **Machine learning:** explore various algorithms in Scikit-learn such as regression, classification, and clustering, along with techniques for model evaluation and selection.
+  - **Data visualization:** understand and explore data visually using ``Matplotlib`` and ``Seaborn``.
+  - **Machine learning:** explore various algorithms in ``Scikit-learn`` such as regression, classification, and clustering, along with techniques for model evaluation and selection.
 
 The end of the GitHub repository includes a comprehensive list of resources and links to practice, such as competitions and open datasets.
 
