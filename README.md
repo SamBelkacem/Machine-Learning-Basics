@@ -12,7 +12,7 @@ This repository includes three essential components:
   - **Data visualization:** understand and explore data visually using Matplotlib and Seaborn.
   - **Machine learning:** explore various algorithms in Scikit-learn such as regression, classification, and clustering, along with techniques for model evaluation and selection.
 
-By the end, you'll have a solid understanding of the basics of machine learning in Python. Let's get started!
+The end of the GitHub repository includes a comprehensive list of resources and links to practice such as competitions and open datasets.
 
 # Prerequisites
 
