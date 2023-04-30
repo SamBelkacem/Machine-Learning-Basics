@@ -22,7 +22,9 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
 # Roadmap
 
-**1- Machine learning basic concepts** ([PDF](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf))
+**1- Machine learning basic concepts** 
+ 
+  - Presentation on Machine learning basic concepts ([PDF](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf))
 
 **2- Read input data**
 
