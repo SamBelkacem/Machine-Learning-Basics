@@ -12,9 +12,8 @@ Tutorial on Machine Learning basics.
 
 5- Machine learning competitions:
 
-•	Kaggle: https://www.kaggle.com/competitions
-
-•	Zindi Africa: https://zindi.africa/competitions
+  - Kaggle: https://www.kaggle.com/competitions
+  - Zindi Africa: https://zindi.africa/competitions
 
 6- Machine learning datasets
 
