@@ -25,24 +25,24 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
 **2- Read input data**
 
-  - GitHub repository ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/How%20to%20read%20various%20sources%20in%20a%20DataFrame.ipynb))
+  - Tutorial to read various sources in a DataFrame ([GitHub](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/How%20to%20read%20various%20sources%20in%20a%20DataFrame.ipynb))
 
 **3- Data preprocessing and analysis: ``Numpy`` and ``Pandas``**
 
-  - Numpy Cheatsheet ([Link](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/5-%20Numpy%20cheatsheet.pdf))
-  - Pandas Cheatsheet ([Link](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/6-%20Pandas%20cheatsheet%201.pdf))
-  - GitHub repository ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb))
+  - Numpy Cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/5-%20Numpy%20cheatsheet.pdf))
+  - Pandas Cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/6-%20Pandas%20cheatsheet%201.pdf))
+  - Numpy and Pandas tutorial ([GitHub](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb))
 
 **4- Data visualization: ``Matplotlib`` and ``Seaborn``**
 
-  - Chart chooser ([Link](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/09-%20Data%20visualization/4-%20The%20chart%20chooser.pdf))
-  - Cheatsheet ([Link](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/7-%20Matplotlib%20cheatsheet%202.pdf))
-  - GitHub repository ([Link](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Matplotlib_Seaborn_basics.ipynb))
+  - Chart chooser ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/09-%20Data%20visualization/4-%20The%20chart%20chooser.pdf))
+  - Cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/7-%20Matplotlib%20cheatsheet%202.pdf))
+  - Matplotlib and Seaborn tutorial ([GitHub](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Matplotlib_Seaborn_basics.ipynb))
 
 **5- Machine learning: ``Scikit-learn``**
 
-  - Cheatsheet ([Link](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
-  - GitHub repository ([Link](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
+  - Cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
+  - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
 
 **6- Machine learning competitions:**
 
