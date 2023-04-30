@@ -1,5 +1,22 @@
 # Machine-Learning-basics
-Tutorial on Machine Learning basics.
+
+Welcome to our Github repository on Machine Learning Basics in Python!
+
+This repository is designed for those who are new to machine learning and want to learn the basics of data preprocessing, analysis, and visualization using Python. We have included a variety of topics such as numpy, pandas, scikit-learn, and matplotlib to give you a comprehensive understanding of the tools required for machine learning.
+
+In this repository, we cover various aspects of data preprocessing such as handling missing values, feature scaling, encoding categorical variables, and data normalization. Additionally, we will explore data analysis techniques such as correlation analysis, outlier detection, and feature selection.
+
+We will also dive into data visualization using matplotlib to create insightful graphs and charts to better understand the data.
+
+Finally, we will explore machine learning algorithms such as regression, classification, and clustering using scikit-learn library, which is a powerful tool for machine learning in Python.
+
+By the end of this repository, you will have a solid understanding of the basics of machine learning in Python and will be ready to dive into more advanced topics. Let's get started!
+
+# Prerequisites
+
+  - Mathematics
+  - Python programming 
+  - Data Structures
 
 # Roadmap
 1- Machine learning basics ([PDF](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf))
