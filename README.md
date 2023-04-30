@@ -10,6 +10,17 @@ Tutorial on Machine Learning basics.
 
 4- Machine learning: scikit-learn (GitHub repository)
 
-5- ML datasets
+5- Machine learning competitions:
 
-6- Kaggle & Zindi competitions
+•	Kaggle: https://www.kaggle.com/competitions
+•	Zindi Africa: https://zindi.africa/competitions
+
+6- Machine learning datasets
+
+•	https://archive.ics.uci.edu/ml/index.php
+•	https://www.kaggle.com/datasets
+•	https://github.com/awesomedata/awesome-public-datasets
+•	https://datasetsearch.research.google.com/
+•	https://www.openml.org/
+•	https://paperswithcode.com/datasets
+
