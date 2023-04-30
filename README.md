@@ -24,6 +24,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
 **Tools:**
 
+  - Python 3
   - Jupyter Notebook
   - Google colab
 
