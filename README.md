@@ -4,6 +4,12 @@
 <img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg" width="650">
 </p>
 
+# The Machine Learning Process
+
+<p align="center">
+<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg" width="650">
+</p>
+
 # Introduction
 
 Welcome to this tutorial on Machine Learning Basics using ``Python``.
