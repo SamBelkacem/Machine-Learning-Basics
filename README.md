@@ -6,6 +6,17 @@
 
 # Machine Learning Process
 
+The machine learning process involves the following steps:
+
+  **1- Data Preparation:** Gather, clean, and preprocess data.
+  **2- Data Visualization:** Visualize data to identify patterns and relationships.
+  **3- Feature Engineering:** Select and transform relevant variables in the data.
+  **4- Model Selection:** Choose the best model for the problem.
+  **5- Hyperparameter Tuning:** Set hyperparameters to optimize model performance.
+  **6- Model Training:** Feed data into the model and adjust parameters to minimize error. 
+  **7- Model Evaluation:** Measure accuracy, precision, recall, and other performance metrics.
+  **8- Model Deployment:** Integrate the model into an application and set up a pipeline to feed new data.
+ 
 <p align="center">
 <img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Machine%20learning%20process.png" width="1100">
 </p>
