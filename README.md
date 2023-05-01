@@ -7,7 +7,7 @@
 # Machine Learning Process
 
 <p align="center">
-<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Machine%20learning%20process.png" width="650">
+<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Machine%20learning%20process.png" width="900">
 </p>
 
 # Introduction
