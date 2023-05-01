@@ -51,7 +51,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
  
   - Presentation on Machine learning basic concepts ([PDF](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf))
 
-**2- Read input data**
+**2- Read input data in ``Python``**
 
   - Tutorial to read various sources in a DataFrame ([GitHub](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/How%20to%20read%20various%20sources%20in%20a%20DataFrame.ipynb))
 
