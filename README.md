@@ -4,10 +4,10 @@
 <img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg" width="650">
 </p>
 
-# The Machine Learning Process
+# Machine Learning Process
 
 <p align="center">
-<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Machine learning process.jpg" width="650">
+<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Machine%20learning%20process.png" width="650">
 </p>
 
 # Introduction
