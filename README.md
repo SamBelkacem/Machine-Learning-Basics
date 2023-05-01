@@ -1,15 +1,9 @@
-# Machine Learning Tutorial
-
-<p align="center">
-<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg" width="650">
-</p>
-
 # Machine Learning Process
 
 The machine learning process involves the following steps:
 
-  - **1- Data Preparation:** Gather, clean, and preprocess data.
-  - **2- Data Visualization:** Visualize data to identify patterns and relationships.
+  - **1- Data Preparation:** Collect, clean, and preprocess data.
+  - **2- Data Visualization and Analysis:** Visualize and analyze data to identify patterns and relationships.
   - **3- Feature Engineering:** Select and transform relevant variables in the data.
   - **4- Model Selection:** Choose the best model for the problem.
   - **5- Hyperparameter Tuning:** Set hyperparameters to optimize model performance.
@@ -21,11 +15,15 @@ The machine learning process involves the following steps:
 <img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Machine%20learning%20process.png" width="1100">
 </p>
 
-# Introduction
+# Machine Learning Tutorial
 
-Welcome to this tutorial on Machine Learning Basics using ``Python``.
+<p align="center">
+<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg" width="650">
+</p>
 
-This GitHub repository includes three essential components:
+This tutorial covers Machine Learning Basics using ``Python``.
+
+The GitHub repository includes three main components:
 
   - **Data preprocessing and analysis:** clean and transform raw data into a format suitable for analysis using ``NumPy`` and ``Pandas``.
   - **Data visualization:** understand and explore data visually using ``Matplotlib`` and ``Seaborn``.
