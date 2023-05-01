@@ -45,7 +45,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - Jupyter Notebook
   - Google Colab
 
-# Roadmap
+# Content of the tutorial
 
 **1- Machine learning basic concepts** 
  
