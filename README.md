@@ -1,5 +1,9 @@
 # Machine Learning Process
 
+<p align="center">
+<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Machine%20learning%20process.png" width="1100">
+</p>
+
 The machine learning process involves the following steps:
 
   - **1- Data Preparation:** Collect, clean, and preprocess data.
@@ -10,10 +14,6 @@ The machine learning process involves the following steps:
   - **6- Model Training:** Feed data into the model and adjust parameters to minimize error. 
   - **7- Model Evaluation:** Measure accuracy, precision, recall, and other performance metrics.
   - **8- Model Deployment:** Integrate the model into an application and set up a pipeline to feed new data.
- 
-<p align="center">
-<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Machine%20learning%20process.png" width="1100">
-</p>
 
 # Machine Learning Tutorial
 
