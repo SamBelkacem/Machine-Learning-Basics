@@ -67,18 +67,23 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - Matplotlib cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/7-%20Matplotlib%20cheatsheet%202.pdf))
   - Matplotlib and Seaborn tutorial ([GitHub](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Matplotlib_Seaborn_basics.ipynb))
 
-**5- Machine learning: ``Scikit-learn``**
+**5- Feature engineering:**
+
+  - Feature engineering cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-preparation-cheatsheet.pdf))
+  - Feature engineering tutorial ([GitHub](https://github.com/rasgointelligence/feature-engineering-tutorials))
+
+**6- Machine learning: ``Scikit-learn``**
 
   - Scikit-learn cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
   - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
   - Evaluation metrics cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms/Metrics-machine-learning.pdf))
 
-**6- Machine learning competitions:**
+**7- Machine learning competitions:**
 
   - Kaggle: https://www.kaggle.com/competitions
   - Zindi Africa: https://zindi.africa/competitions
 
-**7- Machine learning datasets**
+**8- Machine learning datasets**
 
   - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
   - Kaggle datasets: https://www.kaggle.com/datasets
