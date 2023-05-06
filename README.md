@@ -74,6 +74,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
 **6- Machine learning: ``Scikit-learn``**
 
+  - Machine learning map ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/1-%20Machine-learning-map.png))
   - Scikit-learn cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
   - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
   - Evaluation metrics cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms/Metrics-machine-learning.pdf))
