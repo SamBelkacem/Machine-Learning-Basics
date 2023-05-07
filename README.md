@@ -47,16 +47,16 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
 # Structure of the tutorial
 
-  - **01- &nbsp;Machine learning basic concepts** 
-  - **02- Read input data in ``Python``**
-  - **03- Data preprocessing and analysis: ``Numpy`` and ``Pandas``**
-  - **04- Data visualization: ``Matplotlib`` and ``Seaborn``**
-  - **05- Feature engineering**
-  - **06- Machine learning: ``Scikit-learn``**
-  - **07- Model selection**
-  - **08- Model evaluation and explainability**
-  - **09- Practice: Machine learning competitions**
-  - **10- Practice: Machine learning datasets**
+  - **1- &nbsp;Machine learning basic concepts** 
+  - **2- &nbsp;Read input data in ``Python``**
+  - **3- &nbsp;Data preprocessing and analysis: ``Numpy`` and ``Pandas``**
+  - **4- &nbsp;Data visualization: ``Matplotlib`` and ``Seaborn``**
+  - **5- &nbsp;Feature engineering**
+  - **6- &nbsp;Machine learning: ``Scikit-learn``**
+  - **7- &nbsp;Model selection**
+  - **8- &nbsp;Model evaluation and explainability**
+  - **9- &nbsp;Practice: Machine learning competitions**
+  - **10- &nbsp;Practice: Machine learning datasets**
 
 # Content of the tutorial
 
@@ -104,12 +104,12 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - Evaluation metrics in Python ([WEB](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/))
   - Model explainability cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/9-%20Machine%20learning%20explainability.pdf))
 
-**9- Machine learning competitions:**
+**9- Practice: Machine learning competitions**
 
   - Kaggle: https://www.kaggle.com/competitions
   - Zindi Africa: https://zindi.africa/competitions
 
-**10- Machine learning datasets**
+**10- Practice: Machine learning datasets**
 
   - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
   - Kaggle datasets: https://www.kaggle.com/datasets
