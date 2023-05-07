@@ -65,7 +65,8 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
   - Chart chooser ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/09-%20Data%20visualization/4-%20The%20chart%20chooser.pdf))
   - Matplotlib cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/7-%20Matplotlib%20cheatsheet%202.pdf))
-  - Matplotlib and Seaborn tutorial ([GitHub](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Matplotlib_Seaborn_basics.ipynb))
+  - Matplotlib tutorial ([GitHub](https://matplotlib.org/stable/plot_types/index.html#statistics-plots))
+  - Seaborn tutorial ([GitHub](https://seaborn.pydata.org/tutorial.html))
 
 **5- Feature engineering:**
 
