@@ -47,25 +47,16 @@ The end of the GitHub repository includes resources and links to practice, such 
 
 # Structure of the tutorial
 
-1- &nbsp; Machine learning basic concepts 
-
-2- &nbsp; Read input data in ``Python``
-
-3- &nbsp; Data preprocessing and analysis: ``Numpy`` and ``Pandas``
-
-4- &nbsp; Data visualization: ``Matplotlib`` and ``Seaborn``
-
-5- &nbsp; Machine learning: ``Scikit-learn``
-
-6- &nbsp; Feature engineering
-
-7- &nbsp; Model selection
-
-8- &nbsp; Model evaluation and explainability
-
-9- &nbsp; Practice: Machine learning competitions
-
-10- Practice: Machine learning datasets
+  - 1- &nbsp; Machine learning basic concepts 
+  - 2- &nbsp; Read input data in ``Python``
+  - 3- &nbsp; Data preprocessing and analysis: ``Numpy`` and ``Pandas``
+  - 4- &nbsp; Data visualization: ``Matplotlib`` and ``Seaborn``
+  - 5- &nbsp; Machine learning: ``Scikit-learn``
+  - 6- &nbsp; Feature engineering
+  - 7- &nbsp; Model selection
+  - 8- &nbsp; Model evaluation and explainability
+  - 9- &nbsp; Practice: Machine learning competitions
+  - 10- Practice: Machine learning datasets
 
 # Content of the tutorial
 
