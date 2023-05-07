@@ -1,0 +1,24 @@
+Variable	Definition		Key
+
+survival	Survival		0 = No, 1 = Yes
+pclass		Ticket class		1st, 2nd, 3rd, A proxy for social economic status
+Name		Name of the passenger
+sex		Sex	
+Age		Age in years	
+sibsp		Number of siblings / spouses aboard the Titanic	
+parch		Number of parents / children aboard the Titanic	
+ticket		Ticket number	
+fare		Passenger fare	
+cabin		Cabin number	
+embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
+
+Variable Notes
+
+sibsp: The dataset defines family relations in this way...
+Sibling = brother, sister, stepbrother, stepsister
+Spouse = husband, wife (mistresses and fiancés were ignored)
+
+parch: The dataset defines family relations in this way...
+Parent = mother, father
+Child = daughter, son, stepdaughter, stepson
+Some children travelled only with a nanny, therefore parch=0 for them.
