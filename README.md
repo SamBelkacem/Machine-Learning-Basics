@@ -29,7 +29,7 @@ The GitHub repository focuses on three main components:
   - **2- Data visualization:** understand and explore data visually using ``Matplotlib`` and ``Seaborn``.
   - **3- Machine learning:** explore various algorithms in ``Scikit-learn`` such as regression, classification, and clustering, along with techniques for model evaluation and selection.
 
-The end of the GitHub repository includes a comprehensive list of resources and links to practice, such as competitions and open datasets.
+The end of the GitHub repository includes resources and links to practice, such as competitions and open datasets.
 
 # Requirements
 
