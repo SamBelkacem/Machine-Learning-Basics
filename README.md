@@ -79,15 +79,19 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
   - Comparison of ML algorithms ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%202.png))
   - How to choose a ML algorithm ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/3-%20How%20to%20choose%20a%20ML%20algorithm%201.png))
-  - Evaluation metrics ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms/Metrics-machine-learning.pdf))
+
+**7- Model Evaluation and Explainability:**
+
+  - Evaluation metrics cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms/Metrics-machine-learning.pdf))
+  - Evaluation metrics tutorial ([WEB](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/))
   - Machine learning explainability ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/9-%20Machine%20learning%20explainability.pdf))
 
-**7- Machine learning competitions:**
+**8- Machine learning competitions:**
 
   - Kaggle: https://www.kaggle.com/competitions
   - Zindi Africa: https://zindi.africa/competitions
 
-**8- Machine learning datasets**
+**9- Machine learning datasets**
 
   - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
   - Kaggle datasets: https://www.kaggle.com/datasets
