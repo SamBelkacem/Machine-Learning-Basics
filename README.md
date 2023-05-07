@@ -81,7 +81,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - Matplotlib tutorial ([WEB](https://matplotlib.org/stable/plot_types/))
   - Seaborn tutorial ([WEB](https://seaborn.pydata.org/tutorial.html))
 
-**5- Feature engineering:**
+**5- Feature engineering**
 
   - Feature engineering cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-preparation-cheatsheet.pdf))
   - Feature engineering tutorial ([GitHub](https://github.com/rasgointelligence/feature-engineering-tutorials))
@@ -92,13 +92,13 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - Scikit-learn cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
   - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
 
-**7- Model selection:**
+**7- Model selection**
 
   - Comparison of ML algorithms ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%202.png))
   - How to choose a ML algorithm ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/3-%20How%20to%20choose%20a%20ML%20algorithm%201.png))
   - Hyperparameter tuning ([WEB](https://www.jeremyjordan.me/hyperparameter-tuning/))
 
-**8- Model evaluation and explainability:**
+**8- Model evaluation and explainability**
 
   - Evaluation metrics cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms/Metrics-machine-learning.pdf))
   - Evaluation metrics in Python ([WEB](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/))
