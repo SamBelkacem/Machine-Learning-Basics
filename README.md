@@ -51,11 +51,11 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - **02- Read input data in ``Python``**
   - **03- Data preprocessing and analysis: ``Numpy`` and ``Pandas``**
   - **04- Data visualization: ``Matplotlib`` and ``Seaborn``**
-  - **05- Feature engineering:**
+  - **05- Feature engineering**
   - **06- Machine learning: ``Scikit-learn``**
-  - **07- Model selection:**
-  - **08- Model evaluation and explainability:**
-  - **09- Practice: Machine learning competitions:**
+  - **07- Model selection**
+  - **08- Model evaluation and explainability**
+  - **09- Practice: Machine learning competitions**
   - **10- Practice: Machine learning datasets**
 
 # Content of the tutorial
