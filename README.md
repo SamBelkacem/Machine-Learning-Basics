@@ -55,7 +55,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - **6- &nbsp;Machine learning: ``Scikit-learn``**
   - **7- &nbsp;Model selection**
   - **8- &nbsp;Model evaluation and explainability**
-  - **9- &nbsp;Practice: Machine learning competitions**
+  - **9- &nbsp;&nbsp;Practice: Machine learning competitions**
   - **10- Practice: Machine learning datasets**
 
 # Content of the tutorial
