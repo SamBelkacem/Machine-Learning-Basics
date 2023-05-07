@@ -91,7 +91,7 @@ The end of the GitHub repository includes resources and links to practice, such 
 
   - Feature engineering cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-preparation-cheatsheet.pdf))
   - Feature engineering tutorial ([GitHub](https://github.com/rasgointelligence/feature-engineering-tutorials))
-  - 
+  
 **7- Model selection**
 
   - Comparison of ML algorithms ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%202.png))
