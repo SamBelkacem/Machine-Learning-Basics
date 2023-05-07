@@ -78,21 +78,24 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - Machine learning map ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/1-%20Machine-learning-map.png))
   - Scikit-learn cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
   - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
+
+**7- Model selection:**
+
   - Comparison of ML algorithms ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%202.png))
   - How to choose a ML algorithm ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/3-%20How%20to%20choose%20a%20ML%20algorithm%201.png))
 
-**7- Model Evaluation and Explainability:**
+**8- Model evaluation and explainability:**
 
   - Evaluation metrics cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms/Metrics-machine-learning.pdf))
   - Evaluation metrics tutorial ([WEB](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/))
-  - Machine learning explainability ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/9-%20Machine%20learning%20explainability.pdf))
+  - Model explainability cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/9-%20Machine%20learning%20explainability.pdf))
 
-**8- Machine learning competitions:**
+**9- Machine learning competitions:**
 
   - Kaggle: https://www.kaggle.com/competitions
   - Zindi Africa: https://zindi.africa/competitions
 
-**9- Machine learning datasets**
+**10- Machine learning datasets**
 
   - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
   - Kaggle datasets: https://www.kaggle.com/datasets
