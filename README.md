@@ -83,6 +83,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
   - Comparison of ML algorithms ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%202.png))
   - How to choose a ML algorithm ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/3-%20How%20to%20choose%20a%20ML%20algorithm%201.png))
+  - Hyperparameter tuning ([WEB](https://www.jeremyjordan.me/hyperparameter-tuning/))
 
 **8- Model evaluation and explainability:**
 
