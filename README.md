@@ -56,7 +56,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
   - **7- &nbsp;&nbsp; Model selection**
   - **8- &nbsp;&nbsp; Model evaluation and explainability**
   - **9- &nbsp;&nbsp; Practice: Machine learning competitions**
-  - **10- Practice:  Machine learning datasets**
+  - **10- Practice:&nbsp; Machine learning datasets**
 
 # Content of the tutorial
 
