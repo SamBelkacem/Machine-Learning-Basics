@@ -51,8 +51,8 @@ The end of the GitHub repository includes resources and links to practice, such 
   - **2- &nbsp;&nbsp; Read input data in ``Python``**
   - **3- &nbsp;&nbsp; Data preprocessing and analysis: ``Numpy`` and ``Pandas``**
   - **4- &nbsp;&nbsp; Data visualization: ``Matplotlib`` and ``Seaborn``**
-  - **5- &nbsp;&nbsp; Feature engineering**
-  - **6- &nbsp;&nbsp; Machine learning: ``Scikit-learn``**
+  - **5- &nbsp;&nbsp; Machine learning: ``Scikit-learn``**
+  - **6- &nbsp;&nbsp; Feature engineering**
   - **7- &nbsp;&nbsp; Model selection**
   - **8- &nbsp;&nbsp; Model evaluation and explainability**
   - **9- &nbsp;&nbsp; Practice: Machine learning competitions**
@@ -80,18 +80,18 @@ The end of the GitHub repository includes resources and links to practice, such 
   - Matplotlib cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/7-%20Matplotlib%20cheatsheet%202.pdf))
   - Matplotlib tutorial ([WEB](https://matplotlib.org/stable/plot_types/))
   - Seaborn tutorial ([WEB](https://seaborn.pydata.org/tutorial.html))
-
-**5- Feature engineering**
-
-  - Feature engineering cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-preparation-cheatsheet.pdf))
-  - Feature engineering tutorial ([GitHub](https://github.com/rasgointelligence/feature-engineering-tutorials))
-
-**6- Machine learning: ``Scikit-learn``**
+ 
+ **5- Machine learning: ``Scikit-learn``**
 
   - Machine learning map ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/1-%20Machine-learning-map.png))
   - Scikit-learn cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
   - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
 
+**6- Feature engineering**
+
+  - Feature engineering cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-preparation-cheatsheet.pdf))
+  - Feature engineering tutorial ([GitHub](https://github.com/rasgointelligence/feature-engineering-tutorials))
+  - 
 **7- Model selection**
 
   - Comparison of ML algorithms ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%202.png))
