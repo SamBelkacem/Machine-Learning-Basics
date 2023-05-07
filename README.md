@@ -88,7 +88,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 **8- Model evaluation and explainability:**
 
   - Evaluation metrics cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms/Metrics-machine-learning.pdf))
-  - Evaluation metrics tutorial ([WEB](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/))
+  - Evaluation metrics in Python ([WEB](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/))
   - Model explainability cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/9-%20Machine%20learning%20explainability.pdf))
 
 **9- Machine learning competitions:**
