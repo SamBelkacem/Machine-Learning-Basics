@@ -47,7 +47,7 @@ The end of the GitHub repository includes a comprehensive list of resources and 
 
 # Structure of the tutorial
 
-  - **01- Machine learning basic concepts** 
+  - **01- &nbsp;Machine learning basic concepts** 
   - **02- Read input data in ``Python``**
   - **03- Data preprocessing and analysis: ``Numpy`` and ``Pandas``**
   - **04- Data visualization: ``Matplotlib`` and ``Seaborn``**
