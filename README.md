@@ -86,6 +86,8 @@ The end of the GitHub repository includes resources and links to practice, such 
   - Machine learning map ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/1-%20Machine-learning-map.png))
   - Scikit-learn cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
   - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
+  - Classification: Titanic Survival Prediction ([GitHub](https://github.com/SamBelkacem/Machine-Learning-Basics/tree/main/Titanic%20Survival%20Prediction))
+  - Regression: Boston House Price Prediction ([GitHub](https://github.com/SamBelkacem/Machine-Learning-Basics/tree/main/Boston%20House%20Price%20Prediction))
 
 **6- Feature engineering**
 
