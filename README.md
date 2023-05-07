@@ -31,7 +31,7 @@ The GitHub repository focuses on three main components:
 
 The end of the GitHub repository includes resources and links to practice, such as competitions and open datasets.
 
-# Requirements
+## Requirements
 
 **Concepts:**
 
