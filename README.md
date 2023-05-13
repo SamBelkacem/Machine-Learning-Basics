@@ -32,7 +32,7 @@ The GitHub repository focuses on three main components:
 The repository also includes two popular examples providing practical hands-on experience with Machine Learning using ``Python``: 
 
   - **1- Titanic Survival Prediction (Classification):** Predict whether a passenger on the Titanic ship survived or not based on various features such as their age, gender, ticket class, and cabin location. 
-  - **2- Boston House Price Prediction (Regression):** Predict the median value of owner-occupied homes in different neighborhoods of Boston based on various features such as crime rate, number of rooms, proximity to employment centers, and accessibility to highways.
+  - **2- Boston House Price Prediction (Regression):** Predict the median value of owner-occupied homes in Boston neighborhoods based on various features such as crime rate, number of rooms, proximity to employment centers, and accessibility to highways.
 
 The end of the GitHub repository includes resources and links to practice, such as competitions and open datasets.
 
