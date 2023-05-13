@@ -29,6 +29,11 @@ The GitHub repository focuses on three main components:
   - **2- Data visualization:** understand and explore data visually using ``Matplotlib`` and ``Seaborn``.
   - **3- Machine learning:** explore various algorithms in ``Scikit-learn`` such as regression, classification, and clustering, along with techniques for model selection and evaluation.
 
+The repository also includes two examples providing practical hands-on experience with Machine Learning Basics using ``Python``: 
+
+  - **1- Classification:** Titanic Survival Prediction
+  - **2- Regression:** Boston House Price Prediction
+
 The end of the GitHub repository includes resources and links to practice, such as competitions and open datasets.
 
 # Requirements
