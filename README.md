@@ -102,7 +102,8 @@ The end of the GitHub repository provides resources and links to practice, such 
   
 **7- Model selection**
 
-  - Comparison of ML algorithms ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%202.png))
+  - Comparison of ML algorithms 1 ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%203.pdf))
+  - Comparison of ML algorithms 2 ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%202.png))
   - How to choose a ML algorithm ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/3-%20How%20to%20choose%20a%20ML%20algorithm%201.png))
   - Hyperparameter tuning ([WEB](https://www.jeremyjordan.me/hyperparameter-tuning/))
 
