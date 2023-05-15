@@ -1,7 +1,7 @@
 # Machine Learning Process
 
 <p align="center">
-<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Images/Machine%20learning%20process.png" width="1100">
+<img src="https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Images/Machine%20Learning%20Process.png" width="1100">
 </p>
 
 The machine learning process involves the following steps:
