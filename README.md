@@ -42,17 +42,17 @@ The end of the GitHub repository provides resources and links to practice, such 
 <img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image 2.jpg" width="800">
 </p>
 
-**Concepts:**
-
-  - Mathematics ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/01-%20Mathematics))
-  - Python programming ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python))
-  - Data Structures ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures))
-
 **Tools:**
 
   - Python 3
   - Jupyter Notebook
   - Google Colab
+
+**Concepts:**
+
+  - Mathematics ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/01-%20Mathematics))
+  - Python programming ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python))
+  - Data Structures ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures))
 
 # Structure of the tutorial
 
