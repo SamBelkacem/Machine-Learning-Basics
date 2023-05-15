@@ -39,7 +39,7 @@ The end of the GitHub repository provides resources and links to practice, such 
 # Requirements
 
 <p align="center">
-<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image 2.jpg" width="650">
+<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image 2.jpg" width="800">
 </p>
 
 **Concepts:**
