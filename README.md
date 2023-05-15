@@ -18,7 +18,7 @@ The machine learning process involves the following steps:
 # Machine Learning Tutorial
 
 <p align="center">
-<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image.jpg" width="650">
+<img src="https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Images/Machine%20Learning%20Tutorial.jpg" width="650">
 </p>
 
 This tutorial covers Machine Learning Basics using ``Python``.
@@ -39,7 +39,7 @@ The end of the GitHub repository provides resources and links to practice, such 
 # Requirements
 
 <p align="center">
-<img src="https://github.com/SamBelkacem/Machine-Learning-basics/blob/main/Image 2.jpg" width="800">
+<img src="https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Images/Requirements.png" width="800">
 </p>
 
 **Tools:**
