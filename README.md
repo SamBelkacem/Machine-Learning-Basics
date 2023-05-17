@@ -90,7 +90,7 @@ The end of the GitHub repository provides resources and links to practice and ad
 
   - Numpy cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/5-%20Numpy%20cheatsheet.pdf))
   - Pandas cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/6-%20Pandas%20cheatsheet%201.pdf))
-  - Numpy and Pandas tutorial ([GitHub](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb))
+  - Numpy and Pandas tutorial ([notebook](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb))
 
 **4- Data visualization: ``Matplotlib`` and ``Seaborn``**
 
@@ -104,13 +104,13 @@ The end of the GitHub repository provides resources and links to practice and ad
   - Machine learning map ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/1-%20Machine-learning-map.png))
   - Scikit-learn cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
   - Scikit-learn tutorial ([GitHub](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks))
-  - Classification: Titanic Survival Prediction ([GitHub](https://github.com/SamBelkacem/Machine-Learning-Basics/tree/main/Titanic%20Survival%20Prediction))
-  - Regression: Boston House Price Prediction ([GitHub](https://github.com/SamBelkacem/Machine-Learning-Basics/tree/main/Boston%20House%20Price%20Prediction))
+  - Classification: Titanic Survival Prediction ([notebook](https://github.com/SamBelkacem/Machine-Learning-Basics/tree/main/Titanic%20Survival%20Prediction))
+  - Regression: Boston House Price Prediction ([notebook](https://github.com/SamBelkacem/Machine-Learning-Basics/tree/main/Boston%20House%20Price%20Prediction))
 
 **6- Feature engineering**
 
   - Feature engineering cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-preparation-cheatsheet.pdf))
-  - Feature engineering tutorial ([GitHub](https://github.com/rasgointelligence/feature-engineering-tutorials))
+  - Feature engineering tutorial ([notebook](https://github.com/rasgointelligence/feature-engineering-tutorials))
   - Feature selection methods ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Feature-selection-methods.png))
   
 **7- Model selection and parameter tuning**
