@@ -41,8 +41,8 @@ The repository also includes two ``Jupyter`` notebooks of two popular examples t
 
 The end of the GitHub repository provides resources and links to practice and advance with Machine Learning:
 
-  - The most popular ML dataset platforms 
-  - The most popular ML competition platforms 
+  - The most popular ML dataset platforms.
+  - The most popular ML competition platforms.
   - A guide to tackle ML competitions ([PDF](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Machine%20learning%20competitions.pdf)).
 
 # Requirements
