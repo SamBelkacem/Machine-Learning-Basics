@@ -23,6 +23,8 @@ The machine learning process involves the following steps:
 
 This tutorial covers Machine Learning Basics using ``Python``.
 
+The repository includes Python notebooks, reference guides, and cheatsheets for the entire Machine Learning process.
+
 The GitHub repository focuses on three main components:
 
   - **1- Data preprocessing and analysis:** clean and transform raw data into a format suitable for analysis using ``NumPy`` and ``Pandas``.
