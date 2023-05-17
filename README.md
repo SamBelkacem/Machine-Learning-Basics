@@ -29,7 +29,7 @@ The repository includes Python notebooks, reference guides, and cheatsheets for 
   - **2- Data visualization:** understand and explore data visually using ``Matplotlib`` and ``Seaborn``.
   - **3- Machine learning:** explore various algorithms in ``Scikit-learn`` such as regression, classification, and clustering
   - **4- Feature engineering:** feature encoding, feature scaling, feature selection, etc.
-  - **5- Model selection:** Comparison of ML algorithms, How to choose a ML algorithm, etc.
+  - **5- Model selection:** comparison of ML algorithms, how to choose a ML algorithm, etc.
   - **6- Hyperparameters tuning**
   - **7- Model evaluation**
   - **8- Model explainability**
