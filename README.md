@@ -31,8 +31,8 @@ The repository includes Python notebooks, reference guides, and cheatsheets for 
   - **4- Feature engineering:** feature encoding, feature scaling, feature selection, etc.
   - **5- Model selection:** comparison of ML algorithms, how to choose a ML algorithm, etc.
   - **6- Hyperparameters tuning:** Grid Search, Random Search, and Bayesian Optimization.
-  - **7- Model evaluation: **
-  - **8- Model explainability: **
+  - **7- Model evaluation:**
+  - **8- Model explainability:**
 
 The repository includes two ``Jupyter`` notebooks of two popular examples to get started with Machine Learning: 
 
