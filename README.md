@@ -23,7 +23,7 @@ The machine learning process involves the following steps:
 
 This tutorial covers Machine Learning Basics using ``Python``.
 
-The repository includes Python notebooks, reference guides, and cheatsheets for the entire Machine Learning process.
+The repository includes Python notebooks, reference guides, and cheatsheets for the entire Machine Learning process:
 
   - **1- Data preprocessing and analysis:** clean and transform data into a format suitable for analysis using ``NumPy`` and ``Pandas``.
   - **2- Data visualization:** understand and explore data visually using ``Matplotlib`` and ``Seaborn``.
