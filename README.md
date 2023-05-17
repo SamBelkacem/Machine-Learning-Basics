@@ -70,8 +70,8 @@ The end of the GitHub repository provides resources and links to practice and ad
   - 6- &nbsp; Feature engineering
   - 7- &nbsp; Model selection
   - 8- &nbsp; Model evaluation and explainability
-  - 9- &nbsp; Practice: Machine learning competitions
-  - 10- Practice: Machine learning datasets
+  - 9- &nbsp; Practice: Machine learning datasets
+  - 10- Practice: Machine learning competitions
 
 # Content of the tutorial
 
@@ -123,13 +123,7 @@ The end of the GitHub repository provides resources and links to practice and ad
   - Evaluation metrics in Python ([WEB](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/))
   - Model explainability cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/9-%20Machine%20learning%20explainability.pdf))
 
-**9- Practice: Machine learning competitions**
-
-  - Kaggle: https://www.kaggle.com/competitions
-  - Zindi Africa: https://zindi.africa/competitions
-  - Guide to tackle ML competitions ([PDF](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Machine%20learning%20competitions.pdf))
-
-**10- Practice: Machine learning datasets**
+**9- Practice: Machine learning datasets**
 
   - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
   - Kaggle datasets: https://www.kaggle.com/datasets
@@ -137,3 +131,9 @@ The end of the GitHub repository provides resources and links to practice and ad
   - Google Dataset Search: https://datasetsearch.research.google.com/
   - OpenML Datasets: https://www.openml.org/
   - Papers With Code: https://paperswithcode.com/datasets
+
+**10- Practice: Machine learning competitions**
+
+  - Kaggle: https://www.kaggle.com/competitions
+  - Zindi Africa: https://zindi.africa/competitions
+  - Guide to tackle ML competitions ([PDF](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Machine%20learning%20competitions.pdf))
