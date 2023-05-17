@@ -135,5 +135,6 @@ The end of the GitHub repository provides resources and links to practice and ad
 **10- Practice: Machine learning competitions**
 
   - Kaggle: https://www.kaggle.com/competitions
+  - DrivenData: https://www.drivendata.org
   - Zindi Africa: https://zindi.africa/competitions
   - Guide to tackle ML competitions ([PDF](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Machine%20learning%20competitions.pdf))
