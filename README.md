@@ -10,8 +10,8 @@ The machine learning process involves the following steps:
   - **2-  Data Visualization and Analysis:** Visualize and analyze data to identify patterns and relationships.
   - **3-  Feature Engineering:** Select and transform relevant variables in the data.
   - **4-  Model Selection:** Choose the best model for the problem.
-  - **5-  Hyperparameter Tuning:** Set hyperparameters to optimize model performance.
-  - **6-  Model Training:** Feed data into the model and adjust parameters to minimize error. 
+  - **5-  Model Training:** Feed data into the model and adjust parameters to minimize error.
+  - **6-  Hyperparameter Tuning:** Set hyperparameters to optimize model performance.
   - **7-  Model Evaluation:** Measure accuracy, precision, recall, and other performance metrics.
   - **8-  Model Deployment:** Integrate the model into an application and set up a pipeline to feed new data.
 
