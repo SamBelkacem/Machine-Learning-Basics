@@ -25,11 +25,14 @@ This tutorial covers Machine Learning Basics using ``Python``.
 
 The repository includes Python notebooks, reference guides, and cheatsheets for the entire Machine Learning process.
 
-The GitHub repository focuses on three main components:
-
-  - **1- Data preprocessing and analysis:** clean and transform raw data into a format suitable for analysis using ``NumPy`` and ``Pandas``.
+  - **1- Data preprocessing and analysis:** clean and transform data into a format suitable for analysis using ``NumPy`` and ``Pandas``.
   - **2- Data visualization:** understand and explore data visually using ``Matplotlib`` and ``Seaborn``.
-  - **3- Machine learning:** explore various algorithms in ``Scikit-learn`` such as regression, classification, and clustering, along with techniques for model selection and evaluation.
+  - **3- Machine learning:** explore various algorithms in ``Scikit-learn`` such as regression, classification, and clustering
+  - **4- Feature selection and Feature engineering:** 
+  - **5- Model selection:** Comparison of ML algorithms, How to choose a ML algorithm, etc.
+  - **6- Hyperparameters tuning**
+  - **7- Model evaluation**
+  - **8- Model explainability**
 
 The repository includes two ``Jupyter`` notebooks of two popular examples to get started with Machine Learning: 
 
