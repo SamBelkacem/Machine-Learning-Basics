@@ -36,7 +36,7 @@ The repository includes two ``Jupyter`` notebooks of two popular examples to get
   - **1- Classification - Titanic Survival Prediction:** Predict whether a passenger on the Titanic ship survived or not based on various features such as their age, gender, ticket class, and cabin location ([notebook](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Titanic%20Survival%20Prediction/Titanic_submission.ipynb)). 
   - **2- Regression - Boston House Price Prediction:** Predict the median value of houses in Boston neighborhoods based on various features such as crime rate, number of rooms, proximity to employment centers, and accessibility to highways ([notebook](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Boston%20House%20Price%20Prediction/Boston_Housing_submission.ipynb)).
 
-The end of the GitHub repository provides resources and links to practice and advance in the field:
+The end of the GitHub repository provides resources and links to practice and advance with Machine Learning:
 
   - The most popular ML dataset platforms 
   - The most popular ML competition platforms 
