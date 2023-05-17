@@ -71,7 +71,7 @@ The end of the GitHub repository provides resources and links to practice and ad
   - 4- &nbsp; Data visualization: ``Matplotlib`` and ``Seaborn``
   - 5- &nbsp; Machine learning: ``Scikit-learn``
   - 6- &nbsp; Feature engineering
-  - 7- &nbsp; Model selection
+  - 7- &nbsp; Model selection and parameter tuning
   - 8- &nbsp; Model evaluation and explainability
   - 9- &nbsp; Practice: Machine learning datasets
   - 10- Practice: Machine learning competitions
@@ -113,7 +113,7 @@ The end of the GitHub repository provides resources and links to practice and ad
   - Feature engineering tutorial ([GitHub](https://github.com/rasgointelligence/feature-engineering-tutorials))
   - Feature selection methods ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Feature-selection-methods.png))
   
-**7- Model selection**
+**7- Model selection and parameter tuning**
 
   - Comparison of ML algorithms 1 ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%203.pdf))
   - Comparison of ML algorithms 2 ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%204.png))
