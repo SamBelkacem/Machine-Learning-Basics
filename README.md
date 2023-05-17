@@ -28,7 +28,7 @@ The repository includes Python notebooks, reference guides, and cheatsheets for 
   - **1- Data preprocessing and analysis:** clean and transform data into a format suitable for analysis using ``NumPy`` and ``Pandas``.
   - **2- Data visualization:** understand and explore data visually using ``Matplotlib`` and ``Seaborn``.
   - **3- Machine learning:** explore various algorithms in ``Scikit-learn`` such as regression, classification, and clustering
-  - **4- Feature engineering:** feature selection, 
+  - **4- Feature engineering:** feature encoding, feature scaling, feature selection, etc.
   - **5- Model selection:** Comparison of ML algorithms, How to choose a ML algorithm, etc.
   - **6- Hyperparameters tuning**
   - **7- Model evaluation**
