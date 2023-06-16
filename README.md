@@ -109,7 +109,9 @@ The end of the GitHub repository provides resources and links to practice and ad
 
 **6- Feature engineering**
 
-  - Feature engineering cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-preparation-cheatsheet.pdf))
+  - Data cleaning guide ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-cleaning-guide.pdf))
+  - Data preparation cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Data-preparation-cheatsheet.pdf))
+  - Feature engineering ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Feature%20engineering.pdf))
   - Feature engineering tutorial ([notebook](https://github.com/rasgointelligence/feature-engineering-tutorials))
   - Feature selection methods ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/08-%20Data%20cleaning/Feature-selection-methods.png))
   
