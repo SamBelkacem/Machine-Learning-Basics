@@ -67,7 +67,7 @@ The end of the GitHub repository provides resources and links to practice and ad
 
   - **NumPy:** A library for efficient numerical operations and multidimensional arrays, widely used in scientific computing and data analysis.
 
-  - **Pandas:** A powerful data manipulation and analysis library, providing data structures and functions for easy handling and processing of structured data.
+  - **Pandas:** A data manipulation and analysis library, providing data structures and functions for easy handling and processing of structured data.
 
   - **Matplotlib:** A popular plotting library used for creating static, animated, and interactive visualizations.
 
