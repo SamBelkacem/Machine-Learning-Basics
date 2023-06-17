@@ -66,11 +66,8 @@ The end of the GitHub repository provides resources and links to practice and ad
 # Short definitions
 
   - **NumPy:** A library for efficient numerical operations and multidimensional arrays, widely used in scientific computing and data analysis.
-
-  - **Pandas:** A data manipulation and analysis library, providing data structures and functions for easy handling and processing of structured data.
-
+  - **Pandas:** A data manipulation and analysis library, providing data structures and functions to easily handle and process structured data.
   - **Matplotlib:** A popular plotting library used for creating static, animated, and interactive visualizations.
-
   - **Seaborn:** A data visualization library based on Matplotlib, providing high-level functions for creating attractive statistical graphics.
 
 # Structure of the tutorial
