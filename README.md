@@ -63,7 +63,7 @@ The end of the GitHub repository provides resources and links to practice and ad
   - Python programming ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python), [guide GDSC](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Python%20Guide%20(GDSC).pdf))
   - Data Structures ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures))
 
-## Python libraries
+ **Python libraries**
 
   - **NumPy:** A library for efficient numerical operations and multidimensional arrays, widely used in scientific computing and data analysis.
   - **Pandas:** A data manipulation and analysis library, providing data structures and functions to easily handle and process structured data.
