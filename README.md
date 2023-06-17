@@ -60,7 +60,7 @@ The end of the GitHub repository provides resources and links to practice and ad
 **Concepts:**
   
   - Mathematics ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/01-%20Mathematics))
-  - Python programming ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python), [Guide GDSC](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Python%20Guide%20(GDSC).pdf))
+  - Python programming ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/03-%20Python), [guide GDSC](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Python%20Guide%20(GDSC).pdf))
   - Data Structures ([refresher](https://github.com/SamBelkacem/AI-ML-cheatsheets/tree/main/05-%20Data%20structures))
 
 # Short definitions
