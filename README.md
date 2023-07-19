@@ -137,7 +137,7 @@ The end of the GitHub repository provides resources and links to practice and ad
 
 **9- Practice: Machine learning datasets**
 
-  - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
+  - UCI Machine Learning Repository: https://archive.ics.uci.edu/
   - Kaggle datasets: https://www.kaggle.com/datasets
   - Awesome Public Datasets: https://github.com/awesomedata/awesome-public-datasets
   - Google Dataset Search: https://datasetsearch.research.google.com/
