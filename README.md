@@ -124,8 +124,8 @@ The end of the GitHub repository provides resources and links to practice and ad
   
 **7- Model selection and parameter tuning**
 
-  - Comparison of ML algorithms 1 ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%203.pdf))
-  - Comparison of ML algorithms 2 ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/6-%20Comparison%20of%20ML%20algorithms%204.png))
+  - Comparison of ML algorithms 1 ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/4-%20Comparison%20of%20ML%20algorithms%203.pdf))
+  - Comparison of ML algorithms 2 ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/4-%20Comparison%20of%20ML%20algorithms%204.png))
   - How to choose a ML algorithm ([IMG](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/3-%20How%20to%20choose%20a%20ML%20algorithm%201.png))
   - Hyperparameter tuning ([WEB](https://www.jeremyjordan.me/hyperparameter-tuning/))
 
@@ -133,7 +133,7 @@ The end of the GitHub repository provides resources and links to practice and ad
 
   - Evaluation metrics cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/14-%20Metrics%20to%20evaluate%20machine%20learning%20algorithms/Metrics-machine-learning.pdf))
   - Evaluation metrics in Python ([WEB](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/))
-  - Model explainability cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/9-%20Machine%20learning%20explainability.pdf))
+  - Model explainability cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/12-%20Machine%20learning/7-%20Machine%20learning%20explainability.pdf))
 
 **9- Practice: Machine learning datasets**
 
