@@ -69,6 +69,7 @@ The end of the GitHub repository provides resources and links to practice and ad
   - **Pandas:** A data manipulation and analysis library, providing data structures and functions to easily handle and process structured data.
   - **Matplotlib:** A popular plotting library used for creating static, animated, and interactive visualizations.
   - **Seaborn:** A data visualization library based on Matplotlib, providing high-level functions for creating attractive statistical graphics.
+  - **Scikit-learn:** A data analysis and modeling library, including machine learning algorithms for tasks such as classification, regression, clustering, etc.
 
 # Structure of the tutorial
 
