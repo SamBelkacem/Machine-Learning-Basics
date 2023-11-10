@@ -98,7 +98,8 @@ The end of the GitHub repository provides resources and links to practice and ad
 
   - Numpy cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/5-%20Numpy%20cheatsheet.pdf))
   - Pandas cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/6-%20Pandas%20cheatsheet%201.pdf))
-  - Numpy and Pandas tutorial ([notebook](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Numpy_Pandas_Quick.ipynb))
+  - Numpy tutorial ([notebook](https://colab.research.google.com/drive/1VV9eM4wtvdnKmm3DAY0MOKsDbtagFvxU?usp=sharing))
+  - Pandas tutorial ([notebook](https://colab.research.google.com/drive/1AkXuLnrd4_i5dfBSyUrnsV82amc9bIy3?usp=sharing))
 
 **4- Data visualization: ``Matplotlib`` and ``Seaborn``**
 
