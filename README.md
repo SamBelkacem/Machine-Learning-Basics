@@ -107,6 +107,7 @@ The end of the GitHub repository provides resources and links to practice and ad
   - Matplotlib cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/7-%20Matplotlib%20cheatsheet%202.pdf))
   - Matplotlib tutorial ([WEB](https://matplotlib.org/stable/plot_types/))
   - Seaborn tutorial ([WEB](https://seaborn.pydata.org/tutorial.html))
+  - Data visualization tutorial ([notebook](https://colab.research.google.com/drive/1pb8_uzSOx0NBdKPLp_k02eif8ES3Hj4x?usp=sharing))
  
  **5- Machine learning: ``Scikit-learn``**
 
