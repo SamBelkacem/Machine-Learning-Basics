@@ -92,7 +92,7 @@ The end of the GitHub repository provides resources and links to practice and ad
 
 **2- Read input data in ``Python``**
 
-  - Tutorial to read various sources in a DataFrame ([notebook](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/How%20to%20read%20various%20sources%20in%20a%20DataFrame.ipynb))
+  - Tutorial to read various sources in a DataFrame ([notebook](https://nbviewer.org/github/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Read_data_various_sources/How%20to%20read%20various%20sources%20in%20a%20DataFrame.ipynb))
 
 **3- Data preprocessing and analysis: ``Numpy`` and ``Pandas``**
 
