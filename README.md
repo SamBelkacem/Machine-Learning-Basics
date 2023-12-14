@@ -97,10 +97,11 @@ The end of the GitHub repository provides resources and links to practice and ad
 **3- Data preprocessing and analysis: ``Numpy`` and ``Pandas``**
 
   - Numpy cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/5-%20Numpy%20cheatsheet.pdf))
-  - Pandas cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/6-%20Pandas%20cheatsheet%201.pdf))
   - Numpy tutorial ([notebook](https://colab.research.google.com/drive/1VV9eM4wtvdnKmm3DAY0MOKsDbtagFvxU?usp=sharing))
+  - Pandas cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/6-%20Pandas%20cheatsheet%201.pdf))
   - Pandas tutorial ([notebook](https://colab.research.google.com/drive/1AkXuLnrd4_i5dfBSyUrnsV82amc9bIy3?usp=sharing))
-
+  - Data preprocessing tutorial ([notebook](https://colab.research.google.com/drive/1ZSakfUCQzeoOt4Z6Q6eHSpjt1DNJL3nx?usp=sharing))
+  
 **4- Data visualization: ``Matplotlib`` and ``Seaborn``**
 
   - Chart chooser ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/09-%20Data%20visualization/4-%20The%20chart%20chooser.pdf))
