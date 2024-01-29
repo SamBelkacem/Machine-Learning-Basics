@@ -54,8 +54,8 @@ The end of the GitHub repository provides resources and links to practice and ad
 **Tools:**
 
   - Python 3
-  - Jupyter Notebook
-  - Google Colab
+  - Jupyter Notebook: web-based interactive computing platform
+  - Google Colab: cloud-based Jupyter Notebook environment
 
 **Concepts:**
   
