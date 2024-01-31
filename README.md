@@ -116,7 +116,7 @@ The end of the GitHub repository provides resources and links to practice and ad
   - Scikit-learn cheatsheet ([PDF](https://github.com/SamBelkacem/AI-ML-cheatsheets/blob/main/03-%20Python/8-%20Scikit-Learn%20cheatsheet.pdf))
   - Scikit-learn tutorial ([notebook](https://nbviewer.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb))
   - Machine learning tutorial ([notebook](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/index.ipynb))
-  - Classification: Titanic Survival Prediction ([notebook](https://github.com/SamBelkacem/Machine-Learning-Basics/tree/main/Titanic%20Survival%20Prediction))
+  - Classification: Titanic Survival Prediction ([notebook](https://colab.research.google.com/drive/14RaCJdn6YZ57xJvBGYs3aZsaHkKSnI-Z?usp=sharing))
   - Regression: Boston House Price Prediction ([notebook](https://github.com/SamBelkacem/Machine-Learning-Basics/tree/main/Boston%20House%20Price%20Prediction))
 
 **6- Feature engineering**
