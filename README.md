@@ -36,8 +36,8 @@ The repository includes Python notebooks, reference guides, and cheatsheets for 
 
 The repository also includes two Python notebooks of two popular examples to get started with Machine Learning: 
 
-  - **Classification - Titanic Survival Prediction:** Predict whether a passenger on the Titanic ship survived or not based on various features such as their age, gender, ticket class, and cabin location ([notebook](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Titanic%20Survival%20Prediction/Titanic_submission.ipynb)). 
-  - **Regression - Boston House Price Prediction:** Predict the median value of houses in Boston neighborhoods based on various features such as crime rate, number of rooms, proximity to employment centers, and accessibility to highways ([notebook](https://github.com/SamBelkacem/Machine-Learning-Basics/blob/main/Boston%20House%20Price%20Prediction/Boston_Housing_submission.ipynb)).
+  - **Classification - Titanic Survival Prediction:** Predict whether a passenger on the Titanic ship survived or not based on various features such as their age, gender, ticket class, and cabin location ([notebook](https://colab.research.google.com/drive/14RaCJdn6YZ57xJvBGYs3aZsaHkKSnI-Z?usp=sharing)). 
+  - **Regression - Boston House Price Prediction:** Predict the median value of houses in Boston neighborhoods based on various features such as crime rate, number of rooms, proximity to employment centers, and accessibility to highways ([notebook](https://colab.research.google.com/drive/1nMHTMbk1IlzHW7pUqfOkxDmJ6FliO46n?usp=sharing)).
 
 The end of the GitHub repository provides resources and links to practice and advance with Machine Learning:
 
